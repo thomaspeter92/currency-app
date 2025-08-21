@@ -1,0 +1,38 @@
+{
+  "aud": {
+    "code": "AUD",
+    "alphaCode": "AUD",
+    "numericCode": "036",
+    "name": "Australian Dollar",
+    "rate": 1.5,
+    "date": "Wed, 20 Aug 2025 21:55:05 GMT",
+    "inverseRate": 0.6
+  },
+  "cad": {
+    "code": "CAD",
+    "alphaCode": "CAD",
+    "numericCode": "124",
+    "name": "Canadian Dollar",
+    "rate": 1.3,
+    "date": "Wed, 20 Aug 2025 21:55:05 GMT",
+    "inverseRate": 0.7
+  },
+  "chf": {
+    "code": "CHF",
+    "alphaCode": "CHF",
+    "numericCode": "756",
+    "name": "Swiss Franc",
+    "rate": 0.8,
+    "date": "Wed, 20 Aug 2025 21:55:05 GMT",
+    "inverseRate": 1.2
+  },
+  "cny": {
+    "code": "CNY",
+    "alphaCode": "CNY",
+    "numericCode": "156",
+    "name": "Chinese Yuan",
+    "rate": 7.1,
+    "date": "Wed, 20 Aug 2025 21:55:05 GMT",
+    "inverseRate": 0.1
+  }
+}
